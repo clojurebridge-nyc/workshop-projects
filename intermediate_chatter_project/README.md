@@ -22,6 +22,6 @@ Forked from [Minneapolis Clojurebridge Track 1](https://github.com/clojurebridge
 ## Contributors to original repo
 
 * @rubygeek
-* @cdollins
+* @Gnurdle
 * @cdollins
 * @orb
