@@ -1,3 +1,5 @@
+Proposed Solution to keep all workshop material in one place, other repos will be Deprecated.
+
 ## Clojurebridge Projects
 
 A single repository for organizers to choose a project for their ClojureBridge Workshop
