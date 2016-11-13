@@ -10,14 +10,10 @@ Emacs - run cider, open `core.clj` and press `C-c C-k` to evaluate the file.
 
 `lein repl` - run `(require 'welcome.core)`.
 
-Original Works
---------------
+## Contributors to original repository
 
-"Welcome to ClojureBridge" app is originally written by @orb for
-Austin, TX, USA workshop.
-The repository is <https://github.com/orb/welcometoclojurebridge>.
-
-Many thanks to @orb.
+- @orb
+- @yokolet
 
 License
 -------

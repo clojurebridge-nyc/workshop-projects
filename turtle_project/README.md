@@ -1,4 +1,4 @@
-# welcometoclojurebridge
+# Turtle Project
 
 ## Try simple functions to walk a turtle
 
@@ -14,7 +14,7 @@ Emacs - run cider, open `walk.clj` and press `C-c C-k` to evaluate the file. On 
 
 `lein repl` - run `(require 'turtle-project.walk)`, `(ns turtle-project.walk)`.
 
-#### How to move turtles
+### How to move turtles
 
 A turtle can move forward/backward and tilt its head right/left.
 
@@ -24,14 +24,20 @@ See [outline/TURTLE.md](outline/TURTLE.md) for commands that turtles understand.
 
 For sample, have look [outline/TURTLE-SAMPLES.md](outline/TURTLE-SAMPLES.md).
 
-Original Works
---------------
+## Original Works
 
 "Turtle" app is originally written by @echeran as Clojure port of Logo programming language.
 
 The repository is <https://github.com/google/clojure-turtle>.
 
 Many thanks to @echeran.
+
+## Contributors to original repository
+
+- @yokolet
+- @Engelberg
+- @brandonbloom
+
 
 License
 -------

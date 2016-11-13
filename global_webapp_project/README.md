@@ -1,4 +1,4 @@
-# global-growth 
+# Global Webapp Project  
 
 A Clojure web app to explore the World Bank's Indicators [API](http://data.worldbank.org/)
 
@@ -16,6 +16,13 @@ Assumes you have followed setup and initial parts of curriculum [here](https://g
 * [Making Your First Program](curriculum/first-program.md)
 * [Making Your Own Web Application](curriculum/app.md)
 * [Putting Your Application Online](curriculum/deploy.md)
+
+## Contributors to originql repository
+
+* @bridgethillyer
+* @cndreisbach
+* @seancorfield
+* @kariannemah
 
 ## License
 

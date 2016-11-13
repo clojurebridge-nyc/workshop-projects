@@ -1,4 +1,4 @@
-# tones
+# Tones Project
 
 ClojureBridge capstone app using Overtone to make sounds.
 
@@ -26,10 +26,11 @@ ClojureBridge capstone app using Overtone to make sounds.
 - [Overtone](http://overtone.github.io/)
 - [SuperCollider](http://supercollider.github.io/)
 
-## Contributors
+## Contributors to original repository
 
-Thanks to Yoko Harada and  Dave Chelimsky for their work on this project.
-
+- @yokolet
+- @dchelimsky
+- @howardabrams
 
 License
 -------
