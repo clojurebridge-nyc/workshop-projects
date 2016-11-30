@@ -19,7 +19,7 @@
   :profiles
   {:dev
    {:dependencies [[javax.servlet/servlet-api "2.5"]
-                   [ring-mock "0.3.0"]]}
+                   [ring-mock "0.1.5"]]}
    :production
    {:ring
     {:open-browser? false, :stacktraces? false, :auto-reload? false}
