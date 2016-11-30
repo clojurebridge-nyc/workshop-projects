@@ -12,9 +12,9 @@ ClojureBridge capstone app using Overtone to make sounds.
       <kbd>Cmd</kbd> + <kbd>Enter</kbd> to evaluate the form.
 
 - REPL
-    * run `(require 'tones.play)`
-    * change namespace by `(ns tones.play`)
-    * run `(piano)`
+* run `(require 'tones.play)`
+* change namespace by `(in-ns tones.play)`       
+* run `(piano)`
 
 ## Curriculum
 
