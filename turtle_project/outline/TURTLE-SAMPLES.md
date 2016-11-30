@@ -7,19 +7,11 @@ Walk them and draw lines by your imagination!
 
 #### 1. start up
 
-- preparation
-
-If you haven't cloned out the repository, try this on the terminal:
-
-```bash
-git clone https://github.com/ClojureBridge/welcometoclojurebridge
-cd welcometoclojurebridge
-```
-
 - load walk.clj on Nightcode
 
 open the file
-`welcomeclojurebridge/src/clojurebridge_turtle/walk.clj`.
+`workshop-projects/turtle-project/src/turtles/walk.clj`.
+
 Then, click `Run with REPL`.
 It may take long. Evetually, you'll see the prompt,`user=> nil`, on the bottom REPL pane.
 Finally, click `Reload File`. You'll see a window with a small triangle on the center.

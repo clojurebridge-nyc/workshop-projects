@@ -6,13 +6,16 @@ LightTable - open `walk.clj` and press
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd> or
 <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd> to evaluate the
 file.
+
 To evaluate additional form, move a cursor to the end of line and
 <kbd>Ctrl</kbd> + <kbd>Enter</kbd> or
 <kbd>Cmd</kbd> + <kbd>Enter</kbd>.
 
-Emacs - run cider, open `walk.clj` and press `C-c C-k` to evaluate the file. On repl, type `(ns clojurebridge-turtle.walk)`.
+Emacs - run cider, open `walk.clj` and press `C-c C-k` to evaluate the file. 
 
-`lein repl` - run `(require 'turtle-project.walk)`, `(ns turtle-project.walk)`.
+On repl, type `(ns turtle.walk)`.
+
+`lein repl` - run `(require 'turtle-project.walk)`, `(in-ns turtle-project.walk)`.
 
 ### How to move turtles
 
